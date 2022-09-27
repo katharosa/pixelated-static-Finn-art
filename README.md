@@ -1,2 +1,2 @@
 # pixelated-static-Finn-art
- A python-based pixelated static art using openCV
+ A python-based pixelated 2D art using openCV
